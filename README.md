@@ -1,4 +1,8 @@
 # starknet_demo
+This is the source code of this [Youtube Video](https://youtu.be/gC-6uvwiju4?si=LF6izXl7J7dCWqGo).
+
+This repository is intended to create an ERC721 smart contract on Starknet using OpenZeppelin, Starknet Foundry, and Starknet.js.
+
 Create a .env file in the folder `starknetjs` folder with:
 
 ```
