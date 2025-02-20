@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"1shueerq8fksi","package_name":"label_nft","contract_name":"HelloStarknet","module_path":"label_nft::HelloStarknet","artifacts":{"sierra":"label_nft_integrationtest_HelloStarknet.test.contract_class.json","casm":null}}]}
